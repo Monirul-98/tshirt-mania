@@ -1,0 +1,10 @@
+.tshirt {
+  width: 250px;
+  height: 400px;
+  background-color: rgba(128, 128, 128, 0.226);
+  border-radius: 10px;
+  padding: 10px;
+}
+.tshirt img {
+  height: 230px;
+}

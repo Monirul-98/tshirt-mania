@@ -1,0 +1,13 @@
+.thanks {
+  font-size: 19px;
+  padding: 20px;
+  background-color: blanchedalmond;
+  border-radius: 20px;
+}
+.discount {
+  background-color: hotpink;
+  padding: 20px;
+  border-radius: 40px;
+  font-size: 30px;
+  margin-top: 10px;
+}
